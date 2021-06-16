@@ -1,2 +1,6 @@
 # SpotiFail
- Programa feito em Linguagem Python
+### Universidade de Pernambuco
+### Engenharia da Computação
+### Linguagem de Programação Orientada a Objetos
+### Linguagem Java
+### Michael Cavalcanti
